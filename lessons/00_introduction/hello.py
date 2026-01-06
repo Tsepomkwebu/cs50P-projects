@@ -6,7 +6,7 @@ def main():
         print("x is less than y")
     elif x > y:
         print("x is greater than y")
-    elif x == y:
+    else:
         print("x is equals to y")
     
 
